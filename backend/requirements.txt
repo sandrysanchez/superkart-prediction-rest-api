@@ -9,5 +9,4 @@ gunicorn==20.1.0
 requests==2.32.4
 PyGithub==2.6.1
 uvicorn[standard]
-matplotlib==3.10.0 
 seaborn==0.13.2

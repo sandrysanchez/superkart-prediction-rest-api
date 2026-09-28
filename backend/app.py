@@ -32,7 +32,7 @@ def predict_sales():
     'Store_Location_City_Type': data['Store_Location_City_Type'],
     'Store_Type': data['Store_Type'],
     'Product_Id_char': data['Product_Id_char'],
-    'Store_Age_Years': data['Store_Age_Years'],
+    'Store_Age': data['Store_Age'],
     'Product_Type_Category': data['Product_Type_Category']
 }
 
